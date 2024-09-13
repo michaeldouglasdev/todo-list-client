@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  //justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 64px 32px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  margin-top: 24px;
+}
+
+.buttonsSections {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 16px;
+}
+.todo {
+}
